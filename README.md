@@ -1,4 +1,4 @@
-<img src="assets/IWA.svg" width=200 align="right">
+<img src="assets/EPx.svg" width=200 align="right">
 
 # Prototype Boards
 
