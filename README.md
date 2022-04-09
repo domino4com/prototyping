@@ -1,6 +1,6 @@
 <img src="assets/EPx.svg" width=200 align="right">
-# Prototype Boards
 
+# Prototype Boards
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ia6bBskam-o
 " target="_blank"><img src="http://img.youtube.com/vi/Ia6bBskam-o/0.jpg" 
 alt="Prototyping" width="480" border="10" /></a>
