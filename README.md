@@ -5,6 +5,8 @@
 " target="_blank"><img src="http://img.youtube.com/vi/Ia6bBskam-o/0.jpg" 
 alt="Prototyping" width="480" border="10" /></a>
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Ia6bBskam-o/0.jpg)](http://www.youtube.com/watch?v=Ia6bBskam-o)
+
 ## Boards
 
 | Board | Size | Design | Description |
