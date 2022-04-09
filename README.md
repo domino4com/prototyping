@@ -2,8 +2,6 @@
 
 # Prototype Boards
 
-[![IMAGE ALT TEXT HERE](assets/YouTube_Logo.svg)](http://www.youtube.com/watch?v=Ia6bBskam-o)
-
 ## Boards
 
 | Board | Size | Design | Description |
@@ -12,6 +10,9 @@
 | IPP | 2x3U |<img src="assets/IPP.png" height=100 align="center">||
 | EPA | EXT |<img src="assets/EPA.png" height=100 align="center">| Analog sensor board |
 | EPB | EXT |<img src="assets/EPB.png" height=100 align="center">| Bus board |
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ia6bBskam-o
+" target="_blank"><img src="assets/YouTube_Logo.svg" width=200 align="right"></a>
 
 ## Size
 ### Standard Boards
