@@ -2,7 +2,7 @@
 
 # Prototype Boards
 
-[![IMAGE ALT TEXT HERE](YouTube_logo.svg)](http://www.youtube.com/watch?v=Ia6bBskam-o)
+[![IMAGE ALT TEXT HERE](assets/YouTube_Logo.svg)](http://www.youtube.com/watch?v=Ia6bBskam-o)
 
 ## Boards
 
